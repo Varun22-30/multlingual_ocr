@@ -1,0 +1,17 @@
+# Core deep learning stack
+torch>=2.1
+torchvision>=0.16
+timm>=0.9
+
+# Data and image processing
+numpy>=1.24
+pandas>=2.0
+Pillow>=10.0
+opencv-python>=4.8
+
+# Training and evaluation utilities
+tqdm>=4.66
+matplotlib>=3.8
+
+# Demo app
+streamlit>=1.31
